@@ -19,6 +19,7 @@ receipts for their orders. The reservation system should also have an administra
 
 File description:
 A1,A2,A3: display the auditorium. (#) for reserved seats. (.) for open seats
+userdb.dat: contains users' usernames and passwords (each row corresponds to a different user).
 Auditorium.java: performs operations like reserving seats, removing seats, etc.
 Customer.java: customer-related operations
 Node.java: helps with traversal in the linked list
