@@ -6,9 +6,10 @@ How to run this program:
 2. Run it on your IDE or onlinegdb.com
 3. For testing:
    3.1: open userdb.dat (the first field is the username and the second field is their password)
-   3.2: enter username (e.g. moondragon)
-   3.3: enter password (e.g. abc1 -- this is the password for moondragon)
-   3.4: a menu should pop up and wait for your action. If you see this then the program is working successfully.
+   3.2: run the program
+   3.3: enter username (e.g. moondragon)
+   3.4: enter password (e.g. abc1 -- this is the password for moondragon)
+   3.5: a menu should pop up and wait for your action. If you see this then the program is working successfully.
 
 (This is from the project desrciption):
 The theater owner you have been working for this semester is very pleased with your work, and wants
