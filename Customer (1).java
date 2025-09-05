@@ -31,6 +31,7 @@ class Customer{
     // setter for order
     public void setOrders(ArrayList<Order> orders){
         this.orders = orders;
+        System.out.println("Testing...");
     }
     // add method
     public void addOrders(Order order){
